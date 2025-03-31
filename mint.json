@@ -1,13 +1,13 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Teach @ Medibuddy Academy",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
+    "primary": "#1D4ED8",
     "light": "#07C983",
     "dark": "#0D9373",
     "anchors": {
@@ -26,10 +26,7 @@
     "url": "https://dashboard.mintlify.com"
   },
   "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
+    
   ],
   "anchors": [
     {
